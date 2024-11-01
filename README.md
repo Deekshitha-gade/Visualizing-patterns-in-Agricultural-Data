@@ -1,4 +1,6 @@
 Visualizing Patterns in Agricultural Data
+
+
 A project that analyzes and visualizes agricultural data trends, focusing on crop yields, weather patterns, and soil health. This visualization aims to provide insights to support data-driven decision-making in agriculture.
 
 Project Overview
